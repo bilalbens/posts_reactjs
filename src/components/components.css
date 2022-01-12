@@ -1,0 +1,45 @@
+
+.card{
+    width: 55%;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    padding: 10px;
+}
+
+.col-md-4 img{
+    margin: auto !important;
+}
+
+
+.imaage{
+    width: 35% !important;
+    border-radius: 50%;
+    height: 70px;
+    margin-bottom: 10px;
+}
+
+.imaage img{
+    width: 35%;
+
+}
+
+
+
+/* -----------friend component---------- */
+
+.friend{
+    margin:10px 0 0 40px;
+}
+
+.friend_name{
+    margin-left:10px;
+    font-size: 14px;
+}
+
+.friend_image{
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.friend_image img{height: 100%; width: 100%;}
